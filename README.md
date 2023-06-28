@@ -1,5 +1,5 @@
-![logo](https://github.com/29deepak/29deepak/blob/main/DEEPAK%20KUMAR.gif)
-<h1 align="center">Hi 👋, I'm DEEPAK KUMAR</h1>
+![logo](https://github.com/Pandeyviii/Pandeyviii/blob/main/WhatsApp%20Image%202023-06-28%20at%2010.20.49.jpeg)
+<h1 align="center">Hi 👋, I'm VISHAL KUMAR PANDEY</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
