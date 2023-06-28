@@ -3,21 +3,19 @@
 <h3 align="center">FULL STACK DEVELOPER</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=29deepak&label=Profile%20views&color=0e75b6&style=flat" alt="29deepak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pandeyviii&label=Profile%20views&color=0e75b6&style=flat" alt="Pandeyviii" /> </p>
 
-- 🔭 I’m worked on [EXPENSE TRACKER](https://github.com/29deepak/expensetracking-backend)
+- 🔭 I’m worked on [EXPENSE TRACKER](https://github.com/Pandeyviii/expenseTracker)
 
-- 🌱 I’m currently learning **SLACK**
+- 🌱 I’m currently learning **React Js**
 
-- 👯 I’m worked on [GROUP CHAT APPLICATION](https://github.com/29deepak/group-chat-one-to-one-chat)
+- 👯 I’m worked on [GROUP CHAT APPLICATION](https://github.com/Pandeyviii/Group-Chat-App)
 
-- 🤝 I’m worked on [E-COMMERCE WEBSITE](https://github.com/29deepak/e-commerce-website)
+- 👨‍💻 All of my projects are available at [https://pandeyviii.github.io/VishalPortfolio2/](https://pandeyviii.github.io/VishalPortfolio2/)
 
-- 👨‍💻 All of my projects are available at [https://29deepak.github.io/deepak-portfolio/](https://29deepak.github.io/deepak-portfolio/)
+- 💬 Ask me about **Java,Data Structure & Algorithm , Html5,css3,Javascript,React Js ,Node Js, Express Js, SQL, Sequelize , Dbms, Oops,Mongo DB,Mongoose,Aws,SpringBoot,Hibernate,Nginx**
 
-- 💬 Ask me about **Python,Data Structure & Algorithm , Html5,css3,Javascript,React Js ,Node Js, Express Js, SQL, Sequelize , Dbms, Oops,Mongo DB,Mongoose,Aws,Nginx**
-
-- 📫 How to reach me **deepak545608@gmail.com**
+- 📫 How to reach me **vishalkumarpandey666@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/29deepak/RESUME-/blob/main/DEEPAK%20KUMAR-RESUME.pdf](https://github.com/29deepak/RESUME-/blob/main/DEEPAK%20KUMAR-RESUME.pdf)
 
